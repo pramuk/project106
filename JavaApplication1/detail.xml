@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<item>
+		<name>NR_ZSP</name>
+		<type>Racquet</type>
+		<description>Stiff Frame: H.M.Graphite,SONIC METAL,EX-HMG  Shaft: H.M.Graphite,Nanometric,X-Fullerene Weight: 2UG4.5 String: 20-28(lbs)</description>
+		<color>High Orange</color>
+		<price>9600</price>
+		<imgcover>img/rac_cover.png</imgcover>
+		<imgitem>img/rac_item.png</imgitem>
+		<imgsell>img/rac_sell.jpg</imgsell>
+		<quote1>Smashing a world record</quote1>
+		<quote2>fastest racquet</quote2>
+		<quote3>Nanoray</quote3>
+		<quote4>Nanometric</quote4>
+	</item>
+
+	<item>
+		<name>SHT</name>
+		<type>Shoes</type>
+		<description>P.U. Leather, Double Russel Mesh, Dura Skin Midsole: E.V.A., POWER CUSHION, Solid E.V.A. Outsole: Endurance Rubber (Durable Outsole)</description>
+		<price>2600</price>
+		<color>Black/Red , White/Blue</color>
+		<imgcover>img/shoe_cover.jpg</imgcover>
+		<imgitem>img/shoe_item.jpg</imgitem>
+		<imgsell>img/shoe_sell.png</imgsell>
+		<quote1>Light Weight</quote1>
+		<quote2>Soft Touch</quote2>
+		<quote3>Great Repulsion</quote3>
+		<quote4>Great Shock Absorption</quote4>
+	</item>
+
+	<item>
+		<name>20170EX</name>
+		<type>Women's Polo Shirt</type>
+		<description>Material: 100% Polyester
+		Made in China</description>
+		<price>690</price>
+		<color>Black &amp; Crystal Red</color>
+		<imgcover>img/polo_cover.jpg</imgcover>
+		<imgitem>img/polo_item.png</imgitem>
+		<imgsell>img/p2.png</imgsell>
+		<quote1>Soft</quote1>
+		<quote2>Great Ventilate</quote2>
+		<quote3>Very Cool Technology</quote3>
+		<quote4>Cool</quote4>
+	</item>
+
+	<item>
+		<name>AS10</name>
+		<type>Shuttle Cock</type>
+		<description>The Yonex Aerosensa 10  feather shuttlecock (AS-10) uses top grade Duck feathers to create a good durable and smooth flying shuttlecock. This shuttlecock is so good and durable that it also used in local tournaments, club matches, and practice. It is an excellent durable and quality shuttlecock for its price under the biggest badminton brand in the world.</description>
+		<price>345</price>
+		<color>White</color>
+		<imgcover>img/cover_shattle_cock_with_black.jpg</imgcover>
+		<imgitem>img/shuttle-cock.png</imgitem>
+		<imgsell>img/shuttlecock.png</imgsell>
+		<quote1>Durable</quote1>
+		<quote2>Great Nilon</quote2>
+		<quote3>Fast</quote3>
+		<quote4>Light</quote4>
+	</item>
+
+	<item>
+		<name>4726EX</name>
+		<type>Racquet Bag</type>
+		<description>Holds up to 6 Rackets, good for sharing , storing multiple rackets and shoes
+		Authentic</description>
+		<price>1,490</price>
+		<color>Orange</color>
+		<imgcover>img/Mcover.jpg</imgcover>
+		<imgitem>img/M.png</imgitem>
+		<imgsell>img/M2.png</imgsell>
+		<quote1>Durable</quote1>
+		<quote2>Large</quote2>
+		<quote3>Modern</quote3>
+		<quote4>100% Polyester</quote4>
+	</item>
+</catalog> 
